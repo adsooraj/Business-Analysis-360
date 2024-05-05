@@ -1,3 +1,5 @@
+Live Dashboard
+https://app.powerbi.com/view?r=eyJrIjoiMDBhYmZiYzYtNmM4Ny00MmMyLWEyNjMtYjljZWFmNDdiMTI5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true
 # Business-Analysis-360
 The primary goal of this project was to use Power BI to create a holistic report that offers an insightful overview of Atliq Hardware's performance. Crafted a Power BI dashboard gathering data from two different sources (Excel/CSV files and a SQL database).  View Project
 
